@@ -5,7 +5,7 @@ import { useRef, useState } from "react";
 export default function Home() {
   const [open, setOpen] = useState(false);
   const [showImage, setShowImage] = useState(false);
-  const audioRef = useRef(null);
+  const audioRef = useRef(null) as any;
   const handleClick = () => {
     setOpen(true);
     setTimeout(() => {
