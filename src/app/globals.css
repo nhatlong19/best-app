@@ -17,10 +17,13 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(to bottom,
+  /* color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
       transparent,
-      rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb)); */
 }
 
 @layer utilities {
@@ -29,9 +32,7 @@ body {
   }
 }
 
-
 @keyframes scale-animation {
-
   0%,
   100% {
     transform: scale(1);
@@ -44,4 +45,8 @@ body {
 
 .scale-animation {
   animation: scale-animation 0.5s infinite;
+}
+
+.box-shadow-here {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 8px 12px rgba(0, 123, 255, 0.2);
 }
