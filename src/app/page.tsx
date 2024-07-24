@@ -158,32 +158,52 @@ export default function Home() {
                 <li className="pl-3 flex gap-2 text-[14px] italic mt-1">
                   <p>2.</p>
                   <p className="pl-1">
-                    Users are expected to use the app in a respectful and lawful
-                    manner. Any form of harassment, abusive language, or
-                    inappropriate content will not be tolerated and may result
-                    in the termination of your account.
+                    Any form of harassment, abusive language, or inappropriate
+                    content will not be tolerated and may result in the
+                    termination of your account.
                   </p>
                 </li>
                 <li className="pl-3 flex gap-2 text-[14px] italic mt-1">
                   <p>3.</p>
                   <p className="pl-1">
-                    Users are expected to use the app in a respectful and lawful
-                    manner. Any form of harassment, abusive language, or
-                    inappropriate content will not be tolerated and may result
-                    in the termination of your account.
+                    We may update these policies from time to time. Users are
+                    encouraged to review these policies regularly to stay
+                    informed about any changes.
                   </p>
                 </li>
                 <li className="pl-3 flex gap-2 text-[14px] italic mt-1">
                   <p>4.</p>
                   <p className="pl-1">
                     Users are expected to use the app in a respectful and lawful
-                    manner. Any form of harassment, abusive language, or
-                    inappropriate content will not be tolerated and may result
-                    in the termination of your account.
+                    manner.
                   </p>
                 </li>
                 <li className="pl-3 flex gap-2 text-[14px] italic mt-1">
-                  <p>1.</p>
+                  <p>5.</p>
+                  <p className="pl-1">
+                    Any form of harassment, abusive language, or inappropriate
+                    content will not be tolerated and may result in the
+                    termination of your account.
+                  </p>
+                </li>
+                <li className="pl-3 flex gap-2 text-[14px] italic mt-1">
+                  <p>6.</p>
+                  <p className="pl-1">
+                    We may update these policies from time to time. Users are
+                    encouraged to review these policies regularly to stay
+                    informed about any changes.
+                  </p>
+                </li>
+                <li className="pl-3 flex gap-2 text-[14px] italic mt-1">
+                  <p>7.</p>
+                  <p className="pl-1">
+                    We may update these policies from time to time. Users are
+                    encouraged to review these policies regularly to stay
+                    informed about any changes.
+                  </p>
+                </li>
+                <li className="pl-3 flex gap-2 text-[14px] italic mt-1">
+                  <p>8.</p>
                   <p className="pl-1">
                     Users are expected to use the app in a respectful and lawful
                     manner. Any form of harassment, abusive language, or
@@ -192,7 +212,7 @@ export default function Home() {
                   </p>
                 </li>
                 <li className="pl-3 flex gap-2 text-[14px] italic mt-1">
-                  <p>2.</p>
+                  <p>9.</p>
                   <p className="pl-1">
                     Users are expected to use the app in a respectful and lawful
                     manner. Any form of harassment, abusive language, or
@@ -201,7 +221,7 @@ export default function Home() {
                   </p>
                 </li>
                 <li className="pl-3 flex gap-2 text-[14px] italic mt-1">
-                  <p>3.</p>
+                  <p>10.</p>
                   <p className="pl-1">
                     Users are expected to use the app in a respectful and lawful
                     manner. Any form of harassment, abusive language, or
@@ -210,7 +230,7 @@ export default function Home() {
                   </p>
                 </li>
                 <li className="pl-3 flex gap-2 text-[14px] italic mt-1">
-                  <p>4.</p>
+                  <p>11.</p>
                   <p className="pl-1">
                     Users are expected to use the app in a respectful and lawful
                     manner. Any form of harassment, abusive language, or
@@ -219,34 +239,7 @@ export default function Home() {
                   </p>
                 </li>
                 <li className="pl-3 flex gap-2 text-[14px] italic mt-1">
-                  <p>1.</p>
-                  <p className="pl-1">
-                    Users are expected to use the app in a respectful and lawful
-                    manner. Any form of harassment, abusive language, or
-                    inappropriate content will not be tolerated and may result
-                    in the termination of your account.
-                  </p>
-                </li>
-                <li className="pl-3 flex gap-2 text-[14px] italic mt-1">
-                  <p>2.</p>
-                  <p className="pl-1">
-                    Users are expected to use the app in a respectful and lawful
-                    manner. Any form of harassment, abusive language, or
-                    inappropriate content will not be tolerated and may result
-                    in the termination of your account.
-                  </p>
-                </li>
-                <li className="pl-3 flex gap-2 text-[14px] italic mt-1">
-                  <p>3.</p>
-                  <p className="pl-1">
-                    Users are expected to use the app in a respectful and lawful
-                    manner. Any form of harassment, abusive language, or
-                    inappropriate content will not be tolerated and may result
-                    in the termination of your account.
-                  </p>
-                </li>
-                <li className="pl-3 flex gap-2 text-[14px] italic mt-1">
-                  <p>4.</p>
+                  <p>12.</p>
                   <p className="pl-1">
                     Users are expected to use the app in a respectful and lawful
                     manner. Any form of harassment, abusive language, or
