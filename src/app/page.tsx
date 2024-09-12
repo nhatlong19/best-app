@@ -268,7 +268,8 @@ export default function Home() {
             Run
           </div>
           <img
-            className="w-auto h-full block m-auto"
+            className="w-auto h-full block m-auto "
+            style = {{objectFit: "contain"}}
             src="va.jpg"
             // src="https://m.media-amazon.com/images/I/81DO2H9zhwL._AC_UF1000,1000_QL80_.jpg"
             alt="github"
